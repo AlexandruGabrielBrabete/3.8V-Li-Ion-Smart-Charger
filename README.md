@@ -41,5 +41,5 @@ Students
     Botizan Thomas 
 
 Year of Study: 3
-
-University: Technical University of Cluj-Napoca Faculty: Faculty of Electronics, Telecommunications and Information Technology
+University: Technical University of Cluj-Napoca 
+Faculty: Faculty of Electronics, Telecommunications and Information Technology
